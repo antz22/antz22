@@ -1,8 +1,8 @@
 ## Hello! 👋
 ### I'm a Princeton student studying Computer Science with a focus on Machine Learning and AI.
 
-- 🔭 I'm currently working as a software engineer at EsperCare
-- 🌱 I'm interested in researching Computer Vision and its real-world applications
+- 🔭 I'm currently working as a software engineer at EsperCare.
+- 🌱 I'm interested in researching Computer Vision and its real-world applications.
 - ⚡ I love open source projects and I'm an avid user of linux!
 - 👉 Check out my website at [anthonyzhai.com](https://anthonyzhai.com)!
 
