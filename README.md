@@ -1,7 +1,7 @@
 ## Hello! 👋
 ### I'm a Princeton student studying Computer Science and Math with a focus on Machine Learning and AI.
 
-- 🔭 I've previously worked at EsperCare as a Software Engineer Intern.
+- 🔭 I've previously worked at Predigle as a Software Engineer Intern.
 - 🌱 I'm interested in researching Computer Vision and its real-world applications.
 - ⚡ I love open source projects and I'm an avid user of linux!
 - 👉 Check out my website at [anthonyzhai.com](https://anthonyzhai.com)!
