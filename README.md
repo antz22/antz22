@@ -1,5 +1,5 @@
 ## Hello! 👋
-### I'm a Princeton student studying Computer Science and Math with a focus on Machine Learning and AI.
+### I'm a Princeton student studying Mathematics and Computer Science with a focus on Machine Learning and AI.
 
 - 🔭 I've previously worked at Predigle as a Software Engineer Intern.
 - 🌱 I'm interested in researching Computer Vision and its real-world applications.
